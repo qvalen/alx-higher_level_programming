@@ -1,3 +1,2 @@
-ls
-
-[A[A
+#!/bin/bash
+python3 $PYFILE
